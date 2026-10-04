@@ -244,6 +244,7 @@ For licensing inquiries, permission requests, or collaboration opportunities, pl
 
 All rights reserved.
 
+It is created for educational purposes so viewers can explore the project, understand how the workflow works, and learn from the data analysis process. If you want to learn more, discuss ideas, or have any questions, feel free to connect with me on GitHub.
 ---
 
 ## 👤 About
