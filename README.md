@@ -236,15 +236,23 @@ df.groupby('Region')[['Sales', 'Profit']].sum()
 
 ## 📄 License
 
-This project is provided as-is for educational and analytical purposes. No explicit license is defined. Please contact the repository owner before using this data in commercial or public-facing applications.
+This project and all associated materials are the proprietary property of the repository owner, [sejwalkanishka](https://github.com/sejwalkanishka).
+
+No part of this project may be used, copied, modified, distributed, reproduced, or published without explicit written permission from the owner.
+
+For licensing inquiries, permission requests, or collaboration opportunities, please contact the repository owner through GitHub.
+
+All rights reserved.
 
 ---
 
 ## 👤 About
 
-Created as a demonstration of retail analytics best practices using modern BI tools and workflows.
+Created by [sejwalkanishka](https://github.com/sejwalkanishka) as a portfolio-style demonstration of retail analytics best practices using modern BI tools and workflows.
 
-**Questions?** Feel free to open an issue or reach out!
+This project showcases end-to-end data transformation, KPI analysis, and dashboard storytelling for business decision-making in a retail context.
+
+Questions or collaboration inquiries? Feel free to open an issue or reach out via GitHub.
 
 ---
 
@@ -255,4 +263,3 @@ Created as a demonstration of retail analytics best practices using modern BI to
 Made with 📊 and 💡 for data-driven decision making
 
 </div>
-```
